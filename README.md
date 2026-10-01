@@ -80,7 +80,8 @@ Hotel-Booking-Cancellation-Analysis/
 ├── hotel_booking.csv
 ├── Hotel_Booking_Dashboard.xlsx
 ├── dashboard.png
-└── README.md 
+└── README.md
+```
 
 ## 🔄 Project Workflow
 
