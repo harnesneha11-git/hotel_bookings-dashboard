@@ -74,7 +74,7 @@ The dataset contains **119,390 hotel booking records** and includes information 
 - **CSV Dataset**
 
 ## 📂 Project Structure
-
+```text
 Hotel-Booking-Cancellation-Analysis/
 │
 ├── hotel_booking.csv
