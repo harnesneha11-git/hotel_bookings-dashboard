@@ -84,7 +84,7 @@ Hotel-Booking-Cancellation-Analysis/
 ```
 
 ## 🔄 Project Workflow
-
+```
 Hotel Booking Dataset
         ↓
 Data Preparation
@@ -98,52 +98,51 @@ PivotCharts
 Interactive Slicer
         ↓
 Excel Dashboard
-
+```
 ## 🎯 Objectives
 
-Analyze total hotel bookings.
-Analyze cancelled bookings.
-Compare City Hotel and Resort Hotel.
-Analyze bookings by guest type.
-Analyze cancellations by room status.
-Identify monthly booking and cancellation patterns.
-Create an interactive Excel dashboard.
+- Analyze total hotel bookings.
+- Analyze cancelled bookings.
+- Compare City Hotel and Resort Hotel.
+- Analyze bookings by guest type.
+- Analyze cancellations by room status.
+- Identify monthly booking and cancellation patterns.
+- Create an interactive Excel dashboard.
 
 ## 💡 Skills Demonstrated
 
-Data Analysis
-Microsoft Excel
-PivotTables
-PivotCharts
-Dashboard Creation
-Data Visualization
-Data Interpretation
-Interactive Data Filtering
+- Data Analysis
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Dashboard Creation
+- Data Visualization
+- Data Interpretation
+- Interactive Data Filtering
 
 ## 📸 Dashboard Preview
 
 The project includes an interactive Excel dashboard with:
 
-KPI cards
-Hotel-wise analysis
-Guest-type analysis
-Room-status analysis
-Monthly booking and cancellation analysis
-Year-wise interactive slicer
+- KPI cards
+- Hotel-wise analysis
+- Guest-type analysis
+- Room-status analysis
+- Monthly booking and cancellation analysis
+- Year-wise interactive slicer
 
 ## 🚀 How to Use
 
-Clone or download this repository.
-Open Hotel_Booking_Dashboard.xlsx in Microsoft Excel.
-Use the year slicer to filter the dashboard.
-Explore the charts and PivotTables.
-Open hotel_booking.csv to view the original dataset.
+- 1. Clone or download this repository.
+- Open Hotel_Booking_Dashboard.xlsx in Microsoft Excel.
+- Use the year slicer to filter the dashboard.
+- Explore the charts and PivotTables.
+- Open hotel_booking.csv to view the original dataset.
 
 ## 👩‍💻 Author
+**Sneha Harne**
 
-Sneha Harne
-
-/harnesneha11-git
+**harnesneha11-git**
 
 
 
