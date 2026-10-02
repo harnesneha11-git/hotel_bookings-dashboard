@@ -131,11 +131,15 @@ The project includes an interactive Excel dashboard with:
 
 ## 🚀 How to Use
 
-- 1. Clone or download this repository.
+- Clone or download this repository.
 - Open Hotel_Booking_Dashboard.xlsx in Microsoft Excel.
 - Use the year slicer to filter the dashboard.
 - Explore the charts and PivotTables.
 - Open hotel_booking.csv to view the original dataset.
+
+
+<img width="1917" height="936" alt="hb2" src="https://github.com/user-attachments/assets/7b64ba44-811e-43d2-b096-2fb19c54ed26" />
+
 
 ## 👩‍💻 Author
 **Sneha Harne**
